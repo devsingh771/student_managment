@@ -1,0 +1,82 @@
+[
+ {
+  "date": "04\/02\/2023",
+  "chequeNo": 43627528,
+  "name": "Aakash",
+  "amount": 133300,
+  "category": "fees",
+  "balance": 55000
+ },
+ {
+  "date": "04\/02\/2023",
+  "chequeNo": 54365783,
+  "name": "Sanjay",
+  "amount": 133300,
+  "category": "fees",
+  "balance": 66000
+ },
+ {
+  "date": "04\/05\/2023",
+  "chequeNo": 45432963,
+  "name": "Pawan",
+  "amount": 133300,
+  "category": "fees",
+  "balance": 23000
+ },
+ {
+  "date": "04\/05\/2023",
+  "chequeNo": 34260890,
+  "name": "Akshay",
+  "amount": 133300,
+  "category": "fees",
+  "balance": 23000
+ },
+ {
+  "date": "04\/06\/2023",
+  "chequeNo": 45325432,
+  "name": "Salman",
+  "amount": 133300,
+  "category": "fees",
+  "balance": 43000
+ },
+ {
+  "date": "04\/06\/2023",
+  "chequeNo": 84579273,
+  "name": "Ankit",
+  "amount": 133300,
+  "category": "fees",
+  "balance": 43000
+ },
+ {
+  "date": "04\/09\/2023",
+  "chequeNo": 34194572,
+  "name": "Sonu",
+  "amount": 133300,
+  "category": "fees",
+  "balance": 27000
+ },
+ {
+  "date": "04\/09\/2023",
+  "chequeNo": 15392578,
+  "name": "Anshul",
+  "amount": 133300,
+  "category": "fees",
+  "balance": 29000
+ },
+ {
+  "date": "03\/09\/2023",
+  "chequeNo": 32510745,
+  "name": "Anurag",
+  "amount": 133300,
+  "category": "fees",
+  "balance": 31000
+ },
+ {
+  "date": "04\/09\/2023",
+  "chequeNo": 32193561,
+  "name": "Yash",
+  "amount": 133300,
+  "category": "fees",
+  "balance": 31000
+ }
+]
